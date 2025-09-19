@@ -1,12 +1,12 @@
 # ChatGPT 中文版：国内直连入口（支持 GPT-5，无需翻墙）【9月最新更新】
 
-> **更新时间：2025/09/18** 
+> **更新时间：2025/09/20** 
 
-**无需翻墙，轻松使用ChatGPT**  2025年最新 [**ChatGPT中文版**](https://chat.lanjingai.org) 国内使用指南，**无限使用 GPT-4、4o和o1、o3模型**   
+**无需翻墙，轻松使用ChatGPT**  2025年最新 [**ChatGPT中文版**](https://ai.lanjingai.org) 国内使用指南，**无限使用 GPT-4、4o和o1、o3模型**   
 
-本指南将详细介绍如何在国内使用 [**ChatGPT 中文版**](https://chat.lanjingai.org)，包括 [**ChatGPT 镜像网站**](https://xsimplechat.com) 推荐及常见问题解答，助您在生活、学习和工作中高效使用 ChatGPT
+本指南将详细介绍如何在国内使用 [**ChatGPT 中文版**](https://ai.lanjingai.org)，包括 [**ChatGPT 镜像网站**](https://xsimplechat.com) 推荐及常见问题解答，助您在生活、学习和工作中高效使用 ChatGPT
 
-**ChatGPT 中文版**入口：**[https://chat.lanjingai.org](https://chat.lanjingai.org)**   
+**ChatGPT 中文版**入口：**[https://ai.lanjingai.org](https://ai.lanjingai.org)**   
 **ChatGPT 镜像网站**直达：**[https://xsimplechat.com](https://xsimplechat.com/)**
 
 ---
@@ -25,7 +25,7 @@
 
 ## 1. 什么是 ChatGPT 中文版？
 
-[**ChatGPT 中文版**](https://chat.lanjingai.org) 是 OpenAI 的 ChatGPT 模型的中文本地化版本，专为国内用户提供流畅的智能AI对话服务。
+[**ChatGPT 中文版**](https://ai.lanjingai.org) 是 OpenAI 的 ChatGPT 模型的中文本地化版本，专为国内用户提供流畅的智能AI对话服务。
 
 - **无需翻墙**：在国内直接使用，无需翻墙，简单、快速、稳定。
 - **中文优化**：针对中文优化，提供更准确自然的对话体验。
@@ -39,7 +39,7 @@
 
 | ChatGPT 镜像网站        | 地址                             | 支持版本           | 免费额度 | 注册方式           | 稳定性  | 功能亮点                |
 |-------------------------|----------------------------------|--------------------|----------|--------------------|---------|-------------------------|
-| 蓝鲸AI                  | [chat.lanjingai.org](https://chat.lanjingai.org/) | GPT-4.1、4o、o1、o3、o4、Claude 4、Gemini 2.5 Pro | 有       | 邮箱注册          | 高      | 支持 4o 绘画、AI 写作、AI 编程、AI 办公等 |
+| 蓝鲸AI                  | [ai.lanjingai.org](https://ai.lanjingai.org/) | GPT-4.1、4o、o1、o3、o4、Claude 4、Gemini 2.5 Pro | 有       | 邮箱注册          | 高      | 支持 4o 绘画、AI 写作、AI 编程、AI 办公等 |
 | 极简AI                  | [xsimplechat.com](https://xsimplechat.com/)   | GPT-4.1、4o、o1、o3、o4、Claude 4、Gemini 2.5 Pro | 有       | 邮箱注册          | 高      | 支持多模型，AI 助手、AI 插件、AI PPT  |
 | 一下AI                  | [chat.yixiaai.com](https://chat.yixiaai.com/) | DeepSeek R1、V3、Doubao等                        | 有       | 扫码即可          | 高      | AI 使用指南            |
 | AI工具站                | [yixiaai.cn](https://yixiaai.cn/)           | GPT-4、o1           | 有       | 直接使用          | 高      | 稳定快速，各种 AI 工具  |
@@ -76,7 +76,7 @@
 
 ## 5. 国内如何使用 ChatGPT 中文版？
 
-1. **选择镜像站点**：选择一个推荐的镜像站点（如 **蓝鲸AI [chat.lanjingai.org](https://chat.lanjingai.org/)**）。
+1. **选择镜像站点**：选择一个推荐的镜像站点（如 **蓝鲸AI [ai.lanjingai.org](https://ai.lanjingai.org/)**）。
 2. **注册使用**：
    - **扫码登录**：微信扫码即可快速访问，无需注册。
    - **免注册体验**：直接输入问题，立即获得智能解答。
